@@ -1,0 +1,8 @@
+❖ Write a program in react native to create 3 input fields with the following validations – 
+(All functionality must work properly like the validation message)
+
+Input field                          Validation Message
+-------------                        ----------------------
+Username                             This field is required
+Email                                Invalid email
+Password                             Password length must be 8-16 character
