@@ -1,0 +1,2 @@
+Design a profile page with your image, name, address, designation, mobile no, email address in react native. 
+Add some proper icon of each field.
