@@ -1,0 +1,2 @@
+Write a program in react native to create a simple stopwatch. 
+All functionality must work properly.
