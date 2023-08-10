@@ -1,0 +1,3 @@
+Write a program in react native to create a calculator. 
+All operator should be on top of the screen and all operand should be after the operator. 
+All functionality must work properly.
